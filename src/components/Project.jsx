@@ -1,4 +1,4 @@
-import '../../styles/components/Project.css';
+import '../styles/components/Project.css';
 import { useMediaPredicate } from 'react-media-hook';
 
 export function Project({ title, img, description, link, style }) {

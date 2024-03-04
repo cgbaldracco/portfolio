@@ -1,4 +1,4 @@
-import '../../styles/components/Featured.css'
+import '../styles/components/Featured.css'
 
 export function Featured() {
     return(

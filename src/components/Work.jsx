@@ -1,4 +1,4 @@
-import '../../styles/components/Work.css';
+import '../styles/components/Work.css';
 import { Project } from './Project';
 
 export function Work() {

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import '../../styles/components/Header.css';
-import '../../styles/components/MobileNav.css';
+import '../styles/components/Header.css';
+import '../styles/components/MobileNav.css';
 import { useTheme } from '../context/theme';
 
 export function Header() {

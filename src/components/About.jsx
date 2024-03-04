@@ -1,4 +1,4 @@
-import '../../styles/components/About.css'
+import '../styles/components/About.css'
 
 export function About() {
   return(
@@ -23,6 +23,7 @@ export function About() {
           </ul>
           <ul className='about__ul'>
             <li className='about__list'>ReactJS</li>
+            <li className='about__list'>Git/Github</li>
           </ul>
         </div>
         <h3 className='about__subtitle'>Programing Languages</h3>
@@ -46,6 +47,7 @@ export function About() {
           </ul>
           <ul className='about__ul'>
             <li className='about__list'>MySQL</li>
+            <li className='about__list'>NodeJS</li>
           </ul>
         </div>
       </div>
