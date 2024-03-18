@@ -9,7 +9,7 @@ export function Contact() {
             <div className='contact__info-container'>
                 <h3 className='contact__label'>Socials</h3>
                     <a href='https://github.com/cgbaldracco' className='contact__info' target='_blank'>Github</a>
-                    <a href='https://www.linkedin.com/in/carlos-guillermo-baldracco-a55402221/' className='contact__info' target='_blank'>Linkedin</a> 
+                    <a href='https://www.linkedin.com/in/carlos-guillermo-baldracco/' className='contact__info' target='_blank'>Linkedin</a> 
             </div>
         </section>
     )
